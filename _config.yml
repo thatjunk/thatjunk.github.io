@@ -22,38 +22,23 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "That Junk Shop"
 description              : "I own an abundant amount of GM junk. Most in varying states of completeness - from 'Runs & Drives' to 'part of a truck'. As such, I'm often in some of the finest junk yards in the southern United States. "
-url                      : "/"
+url                      : "thatjunk.shop"
 baseurl                  : "/"
 repository               : "thatjunk/thatjunk.github.io"
 teaser                   : "/assets/images/missing-header.png"
 logo                     : "/assets/images/logo88.png"
 masthead_title           : "thatjunk.shop"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    repo_id              : "R_kgDOLwzo1Q"
+    category_name        : "General"
+    category_id          : "DIC_kwDOLwzo1c4Ce0sY"
+    discussion_term      : "pathname"
+    reactions_enabled    : '1'
+    theme                : "preferred_color_scheme"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -167,8 +152,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -273,9 +256,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: false
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"

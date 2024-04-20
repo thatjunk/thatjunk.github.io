@@ -3,7 +3,7 @@ layout: single
 title:  "Site Launch"
 header:
   image: "/assets/images/Hero-Engine1.jpg"
-  caption: "Photo credit: Terry Spann"
+  caption: "Photo credit: TJ Spann"
 categories: 
   - web
 tags:

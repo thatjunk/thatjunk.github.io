@@ -1,7 +1,8 @@
 ---
+layout: single
 title:  "Site Launch"
 header:
-  overlay_image: "/assets/images/Hero-Engine1.jpg"
+  image: "/assets/images/Hero-Engine1.jpg"
   caption: "Photo credit: Terry Spann"
 categories: 
   - web

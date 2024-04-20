@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "That Junk Shop"
 description              : "I own an abundant amount of GM junk. Most in varying states of completeness - from 'Runs & Drives' to 'part of a truck'. As such, I'm often in some of the finest junk yards in the southern United States. "
 url                      : "/"
-baseurl                  : "thatjunk.shop/"
+baseurl                  : "/"
 repository               : "thatjunk/thatjunk.github.io"
 teaser                   : "/assets/images/missing-header.png"
 logo                     : "/assets/images/logo88.png"

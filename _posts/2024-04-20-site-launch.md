@@ -10,6 +10,6 @@ tags:
   - website
 ---
 
-I'm launching this site to chronicle my wrenching adventures. I own several General Motors project.. er, products. I'll be mostly doing mechanical updates and maintainence... But I have some interesting things going on in my shop as well. 
+I'm launching this site to chronicle my wrenching adventures. I own several General Motors project.. er, products. I'll be mostly doing mechanical updates and maintainence... But I have some interesting things going on in my shop as well. For now this site is to be considered under construction.
 
 Stay tuned.

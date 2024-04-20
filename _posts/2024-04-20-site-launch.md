@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Site Launch"
+comments: false
 header:
   image: "/assets/images/Hero-Engine1.jpg"
   teaser: "/assets/images/Hero-Engine1.jpg"

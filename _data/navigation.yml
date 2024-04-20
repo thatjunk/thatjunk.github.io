@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "By Year"
-    url: /year-archive/
   - title: "By Category"
     url: /categories/
   - title: "By Tag"
     url: /tags/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "By Year"
+    url: /year-archive/

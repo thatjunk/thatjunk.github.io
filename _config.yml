@@ -25,8 +25,8 @@ description              : "I own an abundant amount of GM junk. Most in varying
 url                      : "thatjunk.shop"
 baseurl                  : "/"
 repository               : "thatjunk/thatjunk.github.io"
-teaser                   : "/assets/images/missing-header.png"
-logo                     : "/assets/images/logo88.png"
+teaser                   : "/assets/images/site/missing-header.png"
+logo                     : "/assets/images/site/logo88.png"
 masthead_title           : "thatjunk.shop"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -77,7 +77,7 @@ show_downloads: false
 author:
   name             : "TJ Spann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I own an abundant amount of GM junk. This website is where I document the various usually interconnected issues."
+  bio              : "As the owner of an absurd amount of GM junk, I'm always wrenching on things. I've built this website to document the various usually interconnected issues that arise along the way."
   location         : "Western Oklahoma"
   email            :
   links:
@@ -87,12 +87,9 @@ author:
     - label: "That Junk Shop"
       icon: "fas fa-fw fa-link"
       url: "https://thatjunk.shop"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/tjspann"
 
 # Site Footer
 footer:
@@ -103,9 +100,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thatjunk"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+    - label: "Modfind Parts"
+      icon: "/assets/images/site/ico-modfind.png"
+      url: "https://modfind.com/profile/92086d40-3a29-11ee-8799-07b9043ee758"
 
 # Reading Files
 include:

@@ -3,8 +3,8 @@ layout: single
 title:  "Site Launch"
 comments: false
 header:
-  image: "/assets/images/Hero-Engine1.jpg"
-  teaser: "/assets/images/Hero-Engine1.jpg"
+  image: "/assets/images/content/Hero-Engine1.jpg"
+  teaser: "/assets/images/content/Hero-Engine1.jpg"
   caption: "LM7 5.3L Gen III LS"
 categories: 
   - web

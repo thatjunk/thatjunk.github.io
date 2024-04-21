@@ -48,8 +48,7 @@ search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+bing_site_verification   : "2842D819E758491170076EA773AC498B"
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :

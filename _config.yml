@@ -101,7 +101,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thatjunk"
     - label: "Modfind Parts"
-      icon: "/assets/images/site/ico-modfind.png"
+      icon: "fas fa-fw fa-truck-pickup"
       url: "https://modfind.com/profile/92086d40-3a29-11ee-8799-07b9043ee758"
 
 # Reading Files

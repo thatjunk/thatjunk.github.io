@@ -7,9 +7,10 @@ header:
   teaser: "/assets/images/content/Hero-Engine1.jpg"
   caption: "LM7 5.3L Gen III LS"
 categories: 
-  - web
+  - tech
 tags:
-  - website
+  - site
+  - tech
 ---
 
 I've launched this site to document the process on the things I'm working on. As the owner of several older (and a couple of newer) General Motors products I often have a wrench in hand. I'd like to say I spend a lot of time wrenching on my trucks, and I do spend a lot of time wrenching on them; keeping the newer vehicles from falling into disrepair takes priority. That means I spend copious amounts of time working on two 2017 Chevrolets that aren't even the slightest bit rusty (yet.) When I can manage though, I'll be working on some pretty cool things.

@@ -6,5 +6,3 @@ main:
     url: /tags/
   - title: "Posts By Year"
     url: /year-archive/
-  - title: "Site Policy"
-    url: /terms/

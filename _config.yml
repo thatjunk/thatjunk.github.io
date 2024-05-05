@@ -90,6 +90,9 @@ footer:
     - label: "Modfind Parts"
       icon: "fas fa-fw fa-truck-pickup"
       url: "https://modfind.com/profile/92086d40-3a29-11ee-8799-07b9043ee758"
+    - label: "Site Policy"
+      icon: "fas fa-fw fa-building-shield"
+      url: "/terms/"
 
 # Reading Files
 include:

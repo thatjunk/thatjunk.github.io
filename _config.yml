@@ -82,7 +82,7 @@ author:
 footer:
   links:
     - label: "Instagram"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-instagram-square"
       url: "https://instagram.com/thatjunkshop"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

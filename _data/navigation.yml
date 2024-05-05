@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "By Category"
+  - title: "Posts By Category"
     url: /categories/
-  - title: "By Tag"
+  - title: "Posts By Tag"
     url: /tags/
-  - title: "By Year"
+  - title: "Posts By Year"
     url: /year-archive/
+  - title: "Site Policy"
+    url: /terms/

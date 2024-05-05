@@ -1,18 +1,5 @@
 include: ["_pages"]
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -21,8 +8,8 @@ title                    : "That Junk Shop"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "That Junk Shop"
-description              : "I own an abundant amount of GM junk. Most in varying states of completeness - from 'Runs & Drives' to 'part of a truck'. As such, I'm often in some of the finest junk yards in the southern United States. "
-url                      : "thatjunk.shop"
+description              : "I own an abundant amount of GM junk. Most in varying states of completeness - from 'Runs & Drives' to 'part of a truck'. As such, I'm often wrenching on them. This is where I write about that. "
+url                      : "https://thatjunk.shop"
 baseurl                  : "/"
 repository               : "thatjunk/thatjunk.github.io"
 teaser                   : "/assets/images/site/missing-header.png"
@@ -77,13 +64,13 @@ show_downloads: false
 author:
   name             : "TJ Spann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "As the owner of an absurd amount of GM junk, I'm always wrenching on things. I've built this website to document the various usually interconnected issues that arise along the way."
+  bio              : "I own a crazy amount of GM junk. I write about it, and create other content."
   location         : "Western Oklahoma"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:contact@thatjunk.shop"
     - label: "That Junk Shop"
       icon: "fas fa-fw fa-link"
       url: "https://thatjunk.shop"
@@ -94,9 +81,9 @@ author:
 # Site Footer
 footer:
   links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://instagram.com/thatjunkshop"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thatjunk"

@@ -12,7 +12,7 @@ tags:
   - cruze
 ---
 
-Some years ago I read in an article somewhere, that the coolant temperature gauge on some 2002 and up Chevrolet Camaros were not functional. The guage would come on and it would register getting up to the right temperature... but that's all it would do. I never spent any time trying to figure out whether or not it was true, but it struck me as odd: Would GM really program a faux coolant temperature gauge? Well, it turns out I actually know the answer to that.
+Some years ago I read in an article somewhere, that the coolant temperature gauge on some 1999 and up Chevrolet Camaros were not functional. The guage would come on and it would register getting up to the right temperature... but that's all it would do. I never spent any time trying to figure out whether or not it was true, but it struck me as odd: Would GM really program a faux coolant temperature gauge? Well, it turns out I actually know the answer to that.
 
 A few years ago I got into buying junkers from insurance auctions. I figure if I can't fix and sell them, then selling the parts is better than the vehicles going into a crusher. Seems like it takes a lot of material to produce an automobile, and I can often find them with less than 100,000 miles on them. Sometimes I'm even lucky enough to find them in reasonable shape and with low miles. The best though is reasonable shape, low miles, and a low price. You never get all three though. If you get all three, something is probably wrong.
 

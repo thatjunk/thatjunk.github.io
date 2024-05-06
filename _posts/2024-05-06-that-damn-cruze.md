@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title:  "That Damn Cruze"
 comments: false
 header:

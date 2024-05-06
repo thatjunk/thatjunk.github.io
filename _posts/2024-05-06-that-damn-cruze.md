@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title:  "That Damn Cruze"
-comments: false
+comments: true
 header:
   image: "/assets/images/content/05_05_24_That_Cruze/That_Cruze_Hero.jpg"
   teaser: "/assets/images/content/05_05_24_That_Cruze/That_Cruze_Hero.jpg"

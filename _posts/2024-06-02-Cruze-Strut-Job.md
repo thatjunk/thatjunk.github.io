@@ -4,8 +4,8 @@ classes: wide
 title:  "2017 Chevrolet Cruze Strut Replacement"
 comments: true 
 header:
-  image: "/assets/images/content/06_02_24_CruzeStrutJob/New-strut.jpg"
-  teaser: "/assets/images/content/06_02_24_CruzeStrutJob/New-strut.jpg"
+  image: "/assets/images/content/06_02_24_Cruze_Strut_Job/New-strut.jpg"
+  teaser: "/assets/images/content/06_02_24_Cruze_Strut_Job/New-strut.jpg"
   caption: "Monroe Quick-Strut"
 categories: 
   - wrenching
@@ -38,7 +38,7 @@ tags:
 ### Overview
 Changing your front struts is important when they become worn out or damaged, because worn or damaged struts can affect the performance or safety of your vehicle. Worn-out struts can cause a bouncy or spongy ride and can lead to a more difficult to handle vehicle on rough roads or in emergency situations. Worn-out struts can also cause your alignment to be off, which can cause increased tire wear. 
 
-![Old Strut](/assets/images/content/06_02_24_CruzeStrutJob/Old_strut.jpg "Old Strut")
+![Old Strut](/assets/images/content/06_02_24_Cruze_Strut_Job/Old_strut.jpg "Old Strut")
 
 My struts were looking pretty worn out. I'd put it off as long as I possibly could because of the windshield cowl, but that wasn't going to work anymore. Between the struts and poor pavement on some of the highways in western Oklahoma it was becoming a bad ride. I chose to use Monroe Quick-Struts for this job to simplify the task; I also do not own the tools to rebuild a strut properly (yet.) While I'm here this will be a good time to check on some suspension components: lower control arm ball joints, and sway bar end links.
 
@@ -46,62 +46,62 @@ My struts were looking pretty worn out. I'd put it off as long as I possibly cou
 
 #### Removing the windshield cowl
 
-![Fender Foam](/assets/images/content/06_02_24_CruzeStrutJob/Fender_foam.jpg "Fender Foam")
+![Fender Foam](/assets/images/content/06_02_24_Cruze_Strut_Job/Fender_foam.jpg "Fender Foam")
 
 There are two pieces of interlocking foam on each side of the cowl. I wiggled the piece that locks under the cowl towards the front of the car until it came loose, then rotated it upward and towards the fender like a hinge to get it loose. There are also trim pieces going up the sides of the windshield that go over the cowl. They can be unclipped with needle nose pliers. Then I used my trim remover tool to pry the little plastic caps on the wiper arms up slightly so that I could pull them loose. I removed the 15mm nut below the cap and used a 22mm wrench to slowly pry the wiper arm off. This was stressful, and I will be buying a windshield wiper arm puller. 
 
-![Front Cowl Clip](/assets/images/content/06_02_24_CruzeStrutJob/Front_cowl_clip.jpg "Front Cowl Clip")
+![Front Cowl Clip](/assets/images/content/06_02_24_Cruze_Strut_Job/Front_cowl_clip.jpg "Front Cowl Clip")
 
 Once the wiper arms have been removed it's time to unfasten the clips on the bottom and sides of the cowl. I carefully pried back on the one on the passenger side and slid my trim tool under the cowl to pop it loose. Then I moved towards the driver's side reaching under each clip and squeezing the tabs to unclip them. 
 
-![Windshield Clip](/assets/images/content/06_02_24_CruzeStrutJob/Windshield_interlock.jpg "Windshield Clip")
+![Windshield Clip](/assets/images/content/06_02_24_Cruze_Strut_Job/Windshield_interlock.jpg "Windshield Clip")
 
 After I finished that I had to unclip the cowl from the windshield. It should be fairly easy to get it started on either side but I found that my cowl was shifted towards the driver side. This made it impossible to get it started on the passenger side without more force than I cared to use. Once I realized what was happening I moved to the driver's side and popped it loose before I grabbed the cowl firmly by the bottom and carefully slid it towards the passenger side about an 1/8th inch. With that little bit of pressure off of the passenger side, I started there pulling it loose and working my way over to the driver's side. There is weatherstrip stuck to the bottom of the cowl, mine got separated from the cowl when it came off. 
 
-![Service Plugs](/assets/images/content/06_02_24_CruzeStrutJob/Service_plugs.jpg "Service Plugs")
+![Service Plugs](/assets/images/content/06_02_24_Cruze_Strut_Job/Service_plugs.jpg "Service Plugs")
 
 Finally I used my trim remover tool to pry the little plastic service caps loose from the top of the strut mount towers to gain access the top strut bolts.
 
-![Cowl Removed](/assets/images/content/06_02_24_CruzeStrutJob/Cowl_removed.jpg "Cowl Removed")
+![Cowl Removed](/assets/images/content/06_02_24_Cruze_Strut_Job/Cowl_removed.jpg "Cowl Removed")
 
 With the cowl off I gave everything underneath a quick wipe-down to get rid of some of the accumulated dust. I screwed the windshield wiper arm nuts back onto the studs, and I put the rest of the parts in the trunk of the car. I placed the passenger wiper and foam block on the passenger side of the trunk and similarly placed the driver's side wiper and foam block on the driver's side. I had to put the back down on the driver's side rear seat to get the cowl completely in the trunk. This keeps those pieces from being stepped on or otherwise damaged. 
 
 #### Lifting the car
 
-![Lift Points](/assets/images/content/06_02_24_CruzeStrutJob/Lift_points.jpg "Lift Points")
+![Lift Points](/assets/images/content/06_02_24_Cruze_Strut_Job/Lift_points.jpg "Lift Points")
 
 I use a half inch drive impact so it wasn't necessary to break the lug nuts loose before lifting the car. To lift the car I used two Pittsburgh jacks and four two-ton jack stands. I set my park brake, then put one jack under each factory lift point. The jack has to be positioned carefully because the jack stand will go right next to it; it may wind up being repositioned a few times to get everything into the right place. Afterward I alternated jacking on both sides so as to lift the car fairly evenly. Once my Cruze was up high enough I positioned the jack stands to the inside of the jacks and lowered the car onto them. 
 
 #### Strut Removal
 
-![On Jack stands](/assets/images/content/06_02_24_CruzeStrutJob/On_jackstands.jpg "On stands")
+![On Jack stands](/assets/images/content/06_02_24_Cruze_Strut_Job/On_jackstands.jpg "On stands")
 
 Once my Cruze was on the jack stands and I was satisfied it was stable, I used my half inch drive impact and 19mm shallow socket to break the lug nuts loose and removed the front tires. 
 
-![Wheel Sensor retainer screw](/assets/images/content/06_02_24_CruzeStrutJob/Wheel_sensor_retainer.jpg "Wheel Sensor retainer screw")
+![Wheel Sensor retainer screw](/assets/images/content/06_02_24_Cruze_Strut_Job/Wheel_sensor_retainer.jpg "Wheel Sensor retainer screw")
 
 I used my 3/8" drive ratchet and my T30 socket to remove the wheel sensor retainer screw behind the steering knuckle. Once I had that loose I pulled the grommet loose from the strut and tucked the wiring safely out of the way.
 
-![Wheel Sensor](/assets/images/content/06_02_24_CruzeStrutJob/Wheel_sensor_tucked.jpg "Wheel Sensor")
+![Wheel Sensor](/assets/images/content/06_02_24_Cruze_Strut_Job/Wheel_sensor_tucked.jpg "Wheel Sensor")
 
 I used my 3/8" drive impact and an 18mm deep socket to break the sway bar end link nut loose from the strut. I positioned my jack on the bottom of the lower ball joint and slowly lifted until there was no pressure on the stud, then pulled it out the back of the strut mount bracket. I spun the nut back onto the end of the sway bar end link to help avoid damage to the threads.
 
-![Sway bar end link](/assets/images/content/06_02_24_CruzeStrutJob/Sway_bar_link.jpg "Sway bar end link")
+![Sway bar end link](/assets/images/content/06_02_24_Cruze_Strut_Job/Sway_bar_link.jpg "Sway bar end link")
 
 I used my impact and 18mm shallow socket to break the nuts loose on the steering knuckle bolts. I then loosened the nuts to cover the ends of the threads entirely and tapped on the nuts to force the bolts loose.
 
-![Steering knuckle bolts](/assets/images/content/06_02_24_CruzeStrutJob/Steering_knuckle_bolts_loose.jpg "Steering knuckle bolts")
+![Steering knuckle bolts](/assets/images/content/06_02_24_Cruze_Strut_Job/Steering_knuckle_bolts_loose.jpg "Steering knuckle bolts")
 
 With both bolts loose I similarly readjusted the height of my jack to relieve pressure on them. I pulled these out, threaded the nuts onto the end and tossed them under my jack stands for safe keeping. I lowered my jack just enough to get the control arm and steering knuckle out of the way, but not so much that the the weight was entirely on the bushings in the other end of the control arm.
 
-![Strut tower bolts](/assets/images/content/06_02_24_CruzeStrutJob/Strut_tower_bolts.jpg "Strut tower bolts")
+![Strut tower bolts](/assets/images/content/06_02_24_Cruze_Strut_Job/Strut_tower_bolts.jpg "Strut tower bolts")
 
 I used my 3/8" drive impact and 18mm shallow socket to loosen the three strut tower bolts, completely removed two, then held onto the spring as I removed the final one.
 
-![Strut removed](/assets/images/content/06_02_24_CruzeStrutJob/Strut_removed.jpg "Strut removed")
+![Strut removed](/assets/images/content/06_02_24_Cruze_Strut_Job/Strut_removed.jpg "Strut removed")
 
 #### Strut Installation
 
 Installation is the reverse of the above. Each strut has an alignment pin at the top so it only goes in one way. I positioned the strut assembly and got the three screws started in the top, hand tightened them, then positioned the bottom and pushed the steering knuckle into place. I slid the two bolts in to secure the strut to the knuckle and then torqued the top bolts to specification. Then I torqued the steering knuckle bolts and installed the sway bar end-link. I finished installation out by reinstalling the wheel sensor. After that was done I put the tires on, put the car on the ground, and torqued my lug nuts. I removed the old weatherstrip from the cowl, installed the new weatherstrip, and snapped the cowl back into place. Then I reinstalled the wiper arms and went and got the front end aligned.
 
-![Mostly finished](/assets/images/content/06_02_24_CruzeStrutJob/Mostly_finished_strut.jpg "Mostly finished")
+![Mostly finished](/assets/images/content/06_02_24_Cruze_Strut_Job/Mostly_finished_strut.jpg "Mostly finished")

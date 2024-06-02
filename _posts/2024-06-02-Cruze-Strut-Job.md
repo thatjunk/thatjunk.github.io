@@ -58,7 +58,7 @@ Once the wiper arms have been removed it's time to unfasten the clips on the bot
 
 After I finished that I had to unclip the cowl from the windshield. It should be fairly easy to get it started on either side but I found that my cowl was shifted towards the driver side. This made it impossible to get it started on the passenger side without more force than I cared to use. Once I realized what was happening I moved to the driver's side and popped it loose before I grabbed the cowl firmly by the bottom and carefully slid it towards the passenger side about an 1/8th inch. With that little bit of pressure off of the passenger side, I started there pulling it loose and working my way over to the driver's side. There is weatherstrip stuck to the bottom of the cowl, mine got separated from the cowl when it came off. 
 
-![Service Plugs](/assets/images/content/06_02_24_Cruze_Strut_Job/Service_plugs.jpg "Service Plugs")
+![Service Plugs](/assets/images/content/06_02_24_Cruze_Strut_Job/Service_Plugs.jpg "Service Plugs")
 
 Finally I used my trim remover tool to pry the little plastic service caps loose from the top of the strut mount towers to gain access the top strut bolts.
 

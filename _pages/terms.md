@@ -26,7 +26,7 @@ None of this information is linked to anything that is personally identifiable.
 
 ### Cookies and Web Beacons
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster the next time you leave a comment.
 
 Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
@@ -38,7 +38,7 @@ Google Analytics is a web analytics tool I use to help understand how visitors e
 
 #### Google Adsense
 
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
+I don't run third party ads here. You're welcome.
 
 ## Disclosure Policy
 
